@@ -1,0 +1,20 @@
+{
+  "name": "أجياد باك | AGYAD PACK",
+  "short_name": "أجياد باك",
+  "description": "إدارة المبيعات والتوزيع الميداني والتسويق",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F7F5",
+  "theme_color": "#0B612B",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
